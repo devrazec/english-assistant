@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+torch
+numpy
+openai-whisper
+llama-cpp-python  # Lightweight LLM CPU inference
+sentencepiece     # Required by some LLMs
