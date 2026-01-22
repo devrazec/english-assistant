@@ -6,7 +6,7 @@ from llama_cpp import Llama
 whisper_model = whisper.load_model("tiny")  # fast, low memory
 
 # Initialize LLM for English analysis
-llm = Llama(model_path="models/phi3-7b.ggmlv3.q4_0.bin")  # small quantized model
+llm = Llama(model_path="models/llama-7b.ggmlv3.q4_0.bin")  # small quantized model
 
 app = FastAPI()
 

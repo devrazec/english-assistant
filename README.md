@@ -13,3 +13,7 @@ docker run -p 8000:8000 english-assistant
 -- Test
 
 python3 test.py
+
+-- 
+
+docker-compose up --build
