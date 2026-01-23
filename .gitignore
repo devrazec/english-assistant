@@ -138,3 +138,5 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 models/llama-7b.ggmlv3.q4_0.bin
+
+.qodo

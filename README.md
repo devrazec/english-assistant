@@ -1,6 +1,4 @@
-# english-assistant
-Building a Project to Help with English
-
+# Building a Project to Help with English
 
 -- Create
 
@@ -13,10 +11,6 @@ docker run -p 8000:8000 english-assistant
 -- Test
 
 python3 test.py
-
--- 
-
-docker-compose up --build
 
 # Links
 
